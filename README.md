@@ -6,9 +6,9 @@
 - ... and Ninebot scooters and Netflix movies
 
 ### My Skills 👨🏼‍💻
-**Programming**: Python, Go, SQL
-**DevOps**: Docker, Git, Linux, Redis, Prometheus
-**Networks**: Zabbix, Networks, IP/MPLS
+- Programming: Python, Go, SQL
+- DevOps: Docker, Git, Linux, Redis, Prometheus
+- Networks: Zabbix, Networks, IP/MPLS
 
 ### Contacts ✉️
 - E-mail: elegek@gmail.com
