@@ -13,7 +13,7 @@
 ### Contacts ✉️
 - E-mail: elegek@gmail.com
 - Telegram: @Gelo_vom (https://t.me/Gelo_vom)
-- WhatsApp: +7 (925) 050-64-68
+- WhatsApp: 9_2_5 0-5-0-6-4-6-8
 
 <p>
   <img 
